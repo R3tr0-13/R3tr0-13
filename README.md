@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">A Embedded software engineer</h3>
+<h3 align="center">Junior Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3tr0-13&label=Profile%20views&color=0e75b6&style=flat" alt="r3tr0-13" /> </p>
 
